@@ -9,6 +9,7 @@ Short guides for common IT support problems, based on my real hands-on experienc
 ## 1.Printer not working
 (Symptoms, Steps, Escalate when;)
 Symptoms: A user sends a document to print and nothing comes out, or the job stays in the queue.
+
 Steps: 1.Check power and physical connections. Make sure the printer is on and that the power and USB or network cables are plugged in properly.
        2.Check connectivity. For a network printer, confirm the connection hasn't dropped. Print a test page from the printer if it has that option.
        3.Look for a paper jam. This is a very common cause, so check the paper path and the paper tray, and look for error lights on the printer.
@@ -16,7 +17,7 @@ Steps: 1.Check power and physical connections. Make sure the printer is on and t
        5.Clear the print queue if jobs are stuck, then print a test page.
 Escalate when: the printer shows a hardware error, it can't be reached even though the network is fine, or the driver needs admin rights to reinstall.
 
-## 3. Slow or non-starting computer
+## 2. Slow or non-starting computer
 (Symptoms, Steps, Escalate when;)
 Symptoms: The computer doesn't power on or it powers on but doesn't reach the desktop.
 Steps: 1.Check all physical connections. Check the power cable and outlet (or the charger and battery on a laptop), and the monitor cable. Make sure the monitor itself is on.
