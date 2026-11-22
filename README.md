@@ -1,4 +1,4 @@
-# it-support-troubleshooting-guide.
+# IT-support-troubleshooting-guide.
 Short guides for common IT support problems, based on my real hands-on experience.
 
 ## Contents
