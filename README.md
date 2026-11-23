@@ -86,4 +86,4 @@ Short guides for common IT support problems, based on my hands-on support work a
 
 ## What I learned
 
-<!-- Write 2 or 3 sentences in your own words here, then delete this comment. -->
+Writing this guide taught me to troubleshoot in a fixed order instead of guessing, starting with the simple things like power and cables. Running ping showed me how to tell whether a problem is with the computer, the router or the internet provider, and Task Manager showed me what is slowing a computer down. I also learned to write steps clearly enough that someone who isn't a technician can follow them.
