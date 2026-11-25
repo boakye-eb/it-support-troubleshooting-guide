@@ -82,6 +82,8 @@ Short guides for common IT support problems, based on my hands-on support work a
 
 **Escalate when:** the whole building or site is offline, the router won't power on or respond, or the problem is on the internet provider's side.
 
+See also: [Network Ping Checker](https://github.com/boakye-eb/network-ping-checker)
+
 ---
 
 ## What I learned
