@@ -82,10 +82,10 @@ Short guides for common IT support problems, based on my hands-on support work a
 
 **Escalate when:** the whole building or site is offline, the router won't power on or respond, or the problem is on the internet provider's side.
 
-See also: [Network Ping Checker](https://github.com/boakye-eb/network-ping-checker)
-
 ---
 
 ## What I learned
 
 Writing this guide taught me to troubleshoot in a fixed order instead of guessing, starting with the simple things like power and cables. Running ping showed me how to tell whether a problem is with the computer, the router or the internet provider, and Task Manager showed me what is slowing a computer down.
+
+See also: [Network Ping Checker](https://github.com/boakye-eb/network-ping-checker)
